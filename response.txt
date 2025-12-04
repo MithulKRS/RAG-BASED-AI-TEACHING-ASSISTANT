@@ -1,0 +1,5 @@
+Hi there! I see you're interested in learning about forms and input tags in HTML.
+
+In our Sigma web development course, we cover forms and input tags starting from Video 7. In this video, titled "Forms and input tags in HTML", we will explore what forms are, how to use the input tag, and its importance in website functionality. We'll also see examples of how forms work on websites like contact pages, Google Forms, and railway ticket booking websites.
+
+To watch the relevant content, go to Video 7 and start playing from the beginning (0:00). You can find the video by searching for "Forms and input tags in HTML" in our course playlist. This will give you a comprehensive understanding of forms and input tags, along with practical examples and explanations.
